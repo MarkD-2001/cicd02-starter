@@ -1,4 +1,4 @@
-"pipeline {
+pipeline {
     agent any
     environment {
         TF_VAR_gcp_project = "qwiklabs-gcp-02-d257461dac9e"
